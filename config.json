@@ -1,0 +1,55 @@
+{
+    "token": "OTkzMjExMjk1NTY4NTE1MDgy.GfxUpP.n881JPF3QH75d-SAvVwuTQnSUrvzKdBbqtAFl4",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/992020442023985193/7zomMSs_cYb9uS_ymIiutgyiK0gL-9FL21hi-QauRPGPrFR0vT5O7XYoBxkAYkeDQ1bt": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=2050&price_from=5&currency=EUR&price_to=50&status[]=1&status[]=6&order=newest_first",
+            "salon": "\u300e\u231b\u300fnike"
+        },
+        "https://discord.com/api/webhooks/994893835471691799/c0Q2OPwWkmXqsgycuOnh9wj9RiO9JMr_vCSqPo5eTc5JKSjJuET37zITx48TrgMqx-tL": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&catalog[]=79&brand_id[]=53&price_to=12&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "\ud83c\udd7f\ud83c\udd84\ud83c\udd7b\ud83c\udd7b-\ud83c\udd7d\ud83c\udd78\ud83c\udd7a\ud83c\udd74"
+        },
+        "https://discord.com/api/webhooks/994894309893619733/2RqdGcQ1R4T23MZFEFV2movMdow0aqhxoKUT4y9cYRP36re669cSsJ88SZzijooJpuhD": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&catalog[]=34&brand_id[]=53&price_to=12&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "\ud83c\udd7f\ud83c\udd70\ud83c\udd7d\ud83c\udd83\ud83c\udd82-\ud83c\udd7d\ud83c\udd78\ud83c\udd7a\ud83c\udd74"
+        },
+        "https://discord.com/api/webhooks/994894605923401789/_p4FSawFBIGKOzr8NPNCL39NPKKH6WT2kgHpN9wn44IFkFQWIoj8D6NcmNZ_L8F2XuNw": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&catalog[]=79&price_to=12&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=10",
+            "salon": "\ud83c\udd77\ud83c\udd70\ud83c\udd84\ud83c\udd83-\ud83c\udd7b\ud83c\udd74\ud83c\udd85\ud83c\udd78\ud83c\udd82"
+        },
+        "https://discord.com/api/webhooks/994894975659692063/xinPkjI8gF6t-yWGewSBU-ty9iqUwYTzhUxSvIOyc9STDRWlYCg4JGlRceCr5sh7HxaP": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&catalog[]=79&catalog[]=76&catalog[]=34&catalog[]=80&price_to=12&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=10&brand_id[]=53&brand_id[]=14&brand_id[]=6&brand_id[]=304&brand_id[]=88",
+            "salon": "\ud835\udc89\ud835\udc82\ud835\udc96\ud835\udc8d-\ud835\udfcf\ud835\udfd3\u20ac"
+        },
+        "https://discord.com/api/webhooks/994895217373216779/1dFU24091rzGzWbc6npVLW6PJJwUcdXUjds615MB9bYkMV9XHd6BdhOR6i6H79_EfxwW": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike%20tech&search_id=5811603101&size_id[]=208&brand_id[]=53&status[]=6&status[]=1&status[]=2&order=newest_first&price_to=70&currency=EUR",
+            "salon": "nike-tech-cop"
+        },
+        "https://discord.com/api/webhooks/994899440664055829/vsv3YTKwLEVeZzr2d4qRY1H1a7Lyrn5l1ujs-saPQDGXRfZpyFwSA5tFYzASoBsAgTqH": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=2052&catalog[]=79&size_id[]=208&size_id[]=209&brand_id[]=88&price_to=15&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "\ud83c\udd77\ud83c\udd70\ud83c\udd84\ud83c\udd83-\ud83c\udd81\ud83c\udd70\ud83c\udd7b\ud83c\udd7f\ud83c\udd77"
+        },
+        "https://discord.com/api/webhooks/994899638106734635/mN1nUs0qaaoyodr4uaswVYS-wF-8hfJZTuW5c_L04ueEQCU26GEvqpfI35xSSEtAV5wv": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&brand_id[]=88&price_to=15&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&catalog[]=34&catalog[]=80",
+            "salon": "\ud83c\udd71\ud83c\udd70\ud83c\udd82-\ud83c\udd81\ud83c\udd70\ud83c\udd7b\ud83c\udd7f\ud83c\udd77"
+        },
+        "https://discord.com/api/webhooks/994974435171897345/_SWMyY8iB2WmeeM2VmTNwRFLzCdTYaw5xv3MeulnRUDacAoDHvJo-j1_p9zmF0VwopwS": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=34&catalog[]=80&status[]=6&status[]=1&status[]=2&price_to=15&currency=EUR&brand_id[]=10&size_id[]=208&size_id[]=209&order=newest_first",
+            "salon": "\ud835\uddd5\ud835\uddee\ud835\ude00-\ud835\udddf\ud835\uddf2\ud835\ude03\ud835\uddf6\u2019\ud835\ude00\ud83d\udc56"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
